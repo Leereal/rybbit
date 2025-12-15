@@ -75,7 +75,7 @@
     "drizzle-kit": "0.31.1",
     "esbuild": "^0.25.5",
     "jsdom": "^26.1.0",
-    "knip": "^5.60.2",
+    "knip": "^5.73.4",
     "pino-pretty": "^13.1.1",
     "prettier": "^3.6.2",
     "terser": "^5.40.0",
